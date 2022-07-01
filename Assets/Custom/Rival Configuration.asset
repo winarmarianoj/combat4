@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4ab7cccf3b46febcbbb8470d9dc3c5, type: 3}
+  m_Name: Rival Configuration
+  m_EditorClassIdentifier: 
+  _rivals:
+  - {fileID: 6482417382502270851, guid: 54d5b2ea8798c614f89c28aaf4487fc1, type: 3}
+  - {fileID: -2636731551915881106, guid: 7307e2944058edd4e9464b7afe7fb29f, type: 3}
+  - {fileID: -5000289869116827931, guid: cd472d7bdb8f22d44b33aa201f51c12e, type: 3}
+  - {fileID: 2024374100047093925, guid: 41caa8a25842b934f97a84d49540356e, type: 3}
+  - {fileID: 895588662783467017, guid: 20eaa23edad46bb4fb8b6f22ae6fcf3d, type: 3}
+  - {fileID: 1340412392279011105, guid: 9f67103c732257f41af5a5765ee2fa70, type: 3}
+  - {fileID: 584057169946126064, guid: 54edd8df62ea4a54bb2315d5fed2f8dc, type: 3}

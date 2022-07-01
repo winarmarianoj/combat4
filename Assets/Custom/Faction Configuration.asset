@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d50c8e0d8294cf297fbc7cf901e2ba6, type: 3}
+  m_Name: Faction Configuration
+  m_EditorClassIdentifier: 
+  _factions:
+  - {fileID: -8470134161494548426, guid: 2edb213eb6e278f4ea4fc28fb1f34c01, type: 3}
+  - {fileID: 8736012897814655127, guid: c57fc86e4edefb94c84f14a925a90dc1, type: 3}
+  - {fileID: 442487008966918207, guid: 448d308bd91fe9840ba9a0726b3e8420, type: 3}
+  - {fileID: 4068172743795618985, guid: a0ab6e401e6cd0842b1f3227c007bb33, type: 3}
+  - {fileID: 5088352450342526626, guid: 869fa2e88f4d2d14fa27e357e50e5976, type: 3}
+  - {fileID: -7973901317235821977, guid: 7f8f69e6c3ce4b24ea571c766280fe9d, type: 3}
+  - {fileID: 2883231146784301999, guid: 87dc0201dae940e4dbfdd6668bf9a94a, type: 3}
+  - {fileID: 9022791929252750227, guid: edbceb89ae0875e4c84f8cc8e2611106, type: 3}
+  - {fileID: 2004268115048368774, guid: c7e9405e28f657743aa055132143c45d, type: 3}

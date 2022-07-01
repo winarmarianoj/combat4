@@ -1,0 +1,26 @@
+{
+    "name": "Login",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:72c997637468bfe4b918770a8aa7c3cf",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:48b465cbc4eca7241a74c4fa5f85e880"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "UniTask.dll",
+        "Newtonsoft.Json.dll",
+        "Unity.Plastic.Newtonsoft.Json.dll",
+        "System.Threading.Tasks.Extensions.dll",
+        "Castle.Core.dll",
+        "log4netPlastic.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

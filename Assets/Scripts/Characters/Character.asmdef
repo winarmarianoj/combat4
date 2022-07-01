@@ -1,0 +1,23 @@
+{
+    "name": "Character",
+    "references": [
+        "GUID:58b12a2754dc6a84a91c4959566c4ded",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:d2baf1072a28ae84fa2902ee874ad25c",
+        "GUID:656cc509cd8e11c419ff5afa06040bc3",
+        "GUID:72c997637468bfe4b918770a8aa7c3cf",
+        "GUID:330914c519875dc42981fdf043679e64",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "UniTask.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

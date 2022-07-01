@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 38144f0e76321714596dff66418eb839
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterConfiguration: {fileID: 11400000, guid: 6b0f00e8206c1a84e8cabc5d5365e9a3,
+      type: 2}
+  - factionConfiguration: {fileID: 11400000, guid: 9b3c87e2eb2356c42ad3b6c011454fbc,
+      type: 2}
+  - rivalConfiguration: {fileID: 11400000, guid: 8962d0d9219ea65469f7614b94c6da9e,
+      type: 2}
+  - weaponConfiguration: {fileID: 11400000, guid: b5bcd4fbcb190dc418b52028c0cba965,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
